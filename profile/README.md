@@ -39,20 +39,20 @@
 
 ### Back-End
 <p align=justify>
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-the-badge&logo=Spring&logoColor=white">
-<img src="https://img.shields.io/badge/Spring boot-6DB33F?style=flat-the-badge&logo=SpringBoot&logoColor=white">
-<img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat-the-badge&logo=Spring Security&logoColor=white">
-<img src="https://img.shields.io/badge/WebRTC-333333?style=flat-the-badge&logo=WebRTC&logoColor=white">
-<img src="https://img.shields.io/badge/JWT-000000?style=flat-the-badge&logo=JSON Web Tokens&logoColor=white">
-<img src="https://img.shields.io/badge/QueryDSL-0769AD?style=flat-the-badge&logo=jQuery&logoColor=white">
-<img src="https://img.shields.io/badge/mysql-4479A1?style=flat-the-badge&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/aws-232F3E?style=flat-the-badge&logo=Amazon AWS&logoColor=white">
-<img src="https://img.shields.io/badge/RDS-527FFF?style=flat-the-badge&logo=Amazon RDS&logoColor=white">
-<img src="https://img.shields.io/badge/S3-569A31?style=flat-the-badge&logo=Amazon S3&logoColor=white">
-<img src="https://img.shields.io/badge/EC2-FF9900?style=flat-the-badge&logo=Amazon EC2&logoColor=white">
-<img src="https://img.shields.io/badge/Sentry-362D59?style=flat-the-badge&logo=Sentry&logoColor=white">
-<img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-the-badge&logo=Swagger&logoColor=white">
-<img src="https://img.shields.io/badge/GitHub actions-2088FF?style=flat-the-badge&logo=GitHub actions&logoColor=white">
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white">
+<img src="https://img.shields.io/badge/Spring boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white">
+<img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat-square&logo=Spring Security&logoColor=white">
+<img src="https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=WebRTC&logoColor=white">
+<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=JSON Web Tokens&logoColor=white">
+<img src="https://img.shields.io/badge/QueryDSL-0769AD?style=flat-square&logo=jQuery&logoColor=white">
+<img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/aws-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white">
+<img src="https://img.shields.io/badge/RDS-527FFF?style=flat-square&logo=Amazon RDS&logoColor=white">
+<img src="https://img.shields.io/badge/S3-569A31?style=flat-square&logo=Amazon S3&logoColor=white">
+<img src="https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=Amazon EC2&logoColor=white">
+<img src="https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=Sentry&logoColor=white">
+<img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=Swagger&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub actions-2088FF?style=flat-square&logo=GitHub actions&logoColor=white">
 </p>
 
 
