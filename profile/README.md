@@ -21,21 +21,10 @@
 
 
 ## ⚙ 주요 기능
--  Infinite Scroll
--  CreatePotal
--  Image Upload
--  Image Resizing(Compression)
--  LogIn & SignIn
--  Post CRUD
--  WebSocket Live Chatting
--  WebRTC Live Camera Share
-- 
-- 
-- 
-- 
-- 
-- 
-- 
+-  소셜 로그인(카카오 로그인)
+-  화상채팅, 실시간 채팅
+-  시간마다 업데이트 되는 랭킹 
+
 <hr>
 
 ## 💻 기술정보
