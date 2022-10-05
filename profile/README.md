@@ -23,8 +23,8 @@
 ## ⚙ 주요 기능
 <hr>
 
-## 💻 Front-End 기술정보
-<hr>
+## 💻 기술정보
+#Front-End
 <p align=justify>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=000000"/>
 <img src="https://img.shields.io/badge/React Query-FF4154?style=flat-square&logo=React Query&logoColor=000000"/>
@@ -35,28 +35,23 @@
 <img src="https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=WebRTC&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=NGINX&logoColor=ffffff"/>
 </p>
-
-## 💻 Back-End 기술정보
-<hr>
-
-
+</br>
+#Back-End
 <p align=justify>
-
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
-<img src="https://img.shields.io/badge/Spring boot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white">
-<img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=Spring Security&logoColor=white">
-<img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=WebRTC&logoColor=white">
-<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON Web Tokens&logoColor=white">
-<img src="https://img.shields.io/badge/QueryDSL-0769AD?style=for-the-badge&logo=jQuery&logoColor=white">
-<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white">
-<img src="https://img.shields.io/badge/RDS-527FFF?style=for-the-badge&logo=Amazon RDS&logoColor=white">
-<img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=Amazon S3&logoColor=white">
-<img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=Amazon EC2&logoColor=white">
-<img src="https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=Sentry&logoColor=white">
-<img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white">
-<img src="https://img.shields.io/badge/GitHub actions-2088FF?style=for-the-badge&logo=GitHub actions&logoColor=white">
-
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-the-badge&logo=Spring&logoColor=white">
+<img src="https://img.shields.io/badge/Spring boot-6DB33F?style=flat-the-badge&logo=SpringBoot&logoColor=white">
+<img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat-the-badge&logo=Spring Security&logoColor=white">
+<img src="https://img.shields.io/badge/WebRTC-333333?style=flat-the-badge&logo=WebRTC&logoColor=white">
+<img src="https://img.shields.io/badge/JWT-000000?style=flat-the-badge&logo=JSON Web Tokens&logoColor=white">
+<img src="https://img.shields.io/badge/QueryDSL-0769AD?style=flat-the-badge&logo=jQuery&logoColor=white">
+<img src="https://img.shields.io/badge/mysql-4479A1?style=flat-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/aws-232F3E?style=flat-the-badge&logo=Amazon AWS&logoColor=white">
+<img src="https://img.shields.io/badge/RDS-527FFF?style=flat-the-badge&logo=Amazon RDS&logoColor=white">
+<img src="https://img.shields.io/badge/S3-569A31?style=flat-the-badge&logo=Amazon S3&logoColor=white">
+<img src="https://img.shields.io/badge/EC2-FF9900?style=flat-the-badge&logo=Amazon EC2&logoColor=white">
+<img src="https://img.shields.io/badge/Sentry-362D59?style=flat-the-badge&logo=Sentry&logoColor=white">
+<img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-the-badge&logo=Swagger&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub actions-2088FF?style=flat-the-badge&logo=GitHub actions&logoColor=white">
 </p>
 
 
