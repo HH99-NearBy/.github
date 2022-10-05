@@ -55,8 +55,13 @@
 <img src="https://img.shields.io/badge/GitHub actions-2088FF?style=flat-square&logo=GitHub actions&logoColor=white">
 </p>
 
-
-
-
-
 <hr>
+
+## 👪 팀원 정보
+| 이름  | GitHub | email |
+|:---:|:------:|:-----:|
+| 강태훈 | https://github.com/taetaehoon  | rad572985@gmail.com   |
+| 권용준 |  |  |
+| 오명재 | https://github.com/Oh-Myeongjae  | omjcws@gmail.com   |
+| 정원용 | https://github.com/projectmiluju  | project.miluju@gmail.com  |
+| 노우열 | https://github.com/nohwooyeol  | dnfdufdl01@gmail.com  |
