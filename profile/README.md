@@ -1,12 +1,49 @@
-## Hi there 👋
+<img src="https://github.com/HH99-NearBy/HH99-NearBy-BE/blob/main/Images/ssggwanmain.png" alt="쓱관메인" width="1000"></img><br/>
 
-<!--
+# 📢프로젝트 소개
+<hr>
 
-**Here are some ideas to get you started:**
+* 바쁜 현대 사회 속 무언가 도전해보고 싶은데 같이할 사람이 필요한 사람😥
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+* 새로운 도전을 해보고 싶지만 어떤 걸 할까 고민 되는 사람을 위한 서비스🙌
+
+
+### 📆 프로젝트 기간
+
+* 2022.08.26 - 2022.10.07
+
+### 🏃‍♂ [쓱관 사이트](https://ssggwan.shop)
+
+<hr>
+
+## 📋 서비스 아키텍처
+<img src="https://github.com/HH99-NearBy/HH99-NearBy-BE/blob/main/Images/image%20(2).png" alt="서비스아키텍처" width="1000"></img><br/>
+
+
+## ⚙ 주요 기능
+<hr>
+
+## 💻 기술정보
+<hr>
+
+
+<p align=justify>
+
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
+<img src="https://img.shields.io/badge/Spring boot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white">
+<img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=Spring Security&logoColor=white">
+<img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=WebRTC&logoColor=white">
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON Web Tokens&logoColor=white">
+<img src="https://img.shields.io/badge/QueryDSL-0769AD?style=for-the-badge&logo=jQuery&logoColor=white">
+<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white">
+<img src="https://img.shields.io/badge/RDS-527FFF?style=for-the-badge&logo=Amazon RDS&logoColor=white">
+<img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=Amazon S3&logoColor=white">
+<img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=Amazon EC2&logoColor=white">
+<img src="https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=Sentry&logoColor=white">
+<img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub actions-2088FF?style=for-the-badge&logo=GitHub actions&logoColor=white">
+
+</p>
+
+<hr>
