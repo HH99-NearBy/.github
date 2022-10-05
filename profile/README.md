@@ -21,21 +21,21 @@
 
 
 ## ⚙ 주요 기능
-- 💻 Infinite Scroll
-- 💻 CreatePotal
-- 💻 Image Upload
-- 💻 Image Resizing(Compression)
-- 💻 LogIn & SignIn
-- 💻 Post CRUD
-- 💻 WebSocket Live Chatting
-- 💻 WebRTC Live Camera Share
-- 💻
-- 💻
-- 💻
-- 💻
-- 💻
-- 💻
-- 💻
+-  Infinite Scroll
+-  CreatePotal
+-  Image Upload
+-  Image Resizing(Compression)
+-  LogIn & SignIn
+-  Post CRUD
+-  WebSocket Live Chatting
+-  WebRTC Live Camera Share
+- 
+- 
+- 
+- 
+- 
+- 
+- 
 <hr>
 
 ## 💻 기술정보
