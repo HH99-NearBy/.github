@@ -73,7 +73,7 @@
 <hr>
 
 ## 👪 팀원 정보
-| Position | Name | GitHub | email |
+| Position | Name | GitHub | Email |
 |:---:|:---:|:------:|:-----:|
 | FE | 강태훈 | https://github.com/taetaehoon  | rad572985@gmail.com   |
 | FE | 권용준 |  |  |
