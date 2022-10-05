@@ -24,7 +24,7 @@
 <hr>
 
 ## 💻 기술정보
-#Front-End
+### Front-End
 <p align=justify>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=000000"/>
 <img src="https://img.shields.io/badge/React Query-FF4154?style=flat-square&logo=React Query&logoColor=000000"/>
@@ -35,8 +35,9 @@
 <img src="https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=WebRTC&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=NGINX&logoColor=ffffff"/>
 </p>
-</br>
-#Back-End
+
+
+### Back-End
 <p align=justify>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-the-badge&logo=Spring&logoColor=white">
 <img src="https://img.shields.io/badge/Spring boot-6DB33F?style=flat-the-badge&logo=SpringBoot&logoColor=white">
