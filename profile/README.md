@@ -23,7 +23,20 @@
 ## ⚙ 주요 기능
 <hr>
 
-## 💻 기술정보
+## 💻 Front-End 기술정보
+<hr>
+<p align=justify>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=000000"/>
+<img src="https://img.shields.io/badge/React Query-FF4154?style=flat-square&logo=React Query&logoColor=000000"/>
+<img src="https://img.shields.io/badge/React Router-CA4245?style=flat-square&logo=React Router&logoColor=000000"/>
+<img src="https://img.shields.io/badge/TypeScript-3278C6?style=flat-square&logo=TypeScript&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/styled-components-DB7093?style=flat-square&logo=styled-components&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=Axios&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=WebRTC&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=NGINX&logoColor=ffffff"/>
+</p>
+
+## 💻 Back-End 기술정보
 <hr>
 
 
@@ -45,5 +58,9 @@
 <img src="https://img.shields.io/badge/GitHub actions-2088FF?style=for-the-badge&logo=GitHub actions&logoColor=white">
 
 </p>
+
+
+
+
 
 <hr>
