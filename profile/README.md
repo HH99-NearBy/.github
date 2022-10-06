@@ -7,23 +7,41 @@
 
 * 새로운 도전을 해보고 싶지만 어떤 걸 할까 고민 되는 사람을 위한 서비스🙌
 
+* 다양한 이유로 혼자 무언가 도전해보기 힘들어하는 사람😥  
+
+* 현대 사회인을 위해 만든 실시간 화상 챌린지 서비스🙌   
+
 
 ### 📆 프로젝트 기간
 
 * 2022.08.26 - 2022.10.07
 
 ### 🏃‍♂ [쓱관 사이트](https://ssggwan.shop)
+### 🏃‍ [발표 영상 바로가기](https://www.youtube.com/watch?v=Nt9xPxshbm4)
+### 🏃‍ [시연 영상 바로가기](https://www.youtube.com/watch?v=KwQJTBUpfkc)
 
 <hr>
 
 ## 📋 서비스 아키텍처
 <img src="https://github.com/HH99-NearBy/HH99-NearBy-BE/blob/main/Images/Architecture.png" alt="서비스아키텍처" width="650"></img><br/>
 
+<hr>
+
+## 📋 [API 명세서(Swagger UI)](https://ssggwan.site/swagger-ui.html#)
+
+<hr>
+
+## 📋 ERD
+<img src="https://github.com/HH99-NearBy/HH99-NearBy-BE/blob/main/Images/ERD.png" alt="ERD" width="650"></img><br/>
+
+<hr>
 
 ## ⚙ 주요 기능
--  소셜 로그인(카카오 로그인)
--  화상채팅, 실시간 채팅
--  시간마다 업데이트 되는 랭킹 
+*  소셜 로그인(카카오 로그인)  
+
+*  화상채팅, 실시간 채팅   
+
+*  시간마다 업데이트 되는 랭킹    
 
 <hr>
 
@@ -70,4 +88,10 @@
 | BE | 정원용 | https://github.com/projectmiluju  | project.miluju@gmail.com  |
 | BE | 노우열 | https://github.com/nohwooyeol  | dnfdufdl01@gmail.com  |
 | DE | 김운지 |  |  |
+<hr>
+
+## 💻 [FE WIKI 바로가기](https://github.com/HH99-NearBy/HH99-NearBy-FE/wiki)
+## 💻 [BE WIKI 바로가기](https://github.com/HH99-NearBy/HH99-NearBy-BE/wiki)
+
+
 <hr>
