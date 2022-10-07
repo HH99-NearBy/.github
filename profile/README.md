@@ -83,7 +83,7 @@
 | Position | Name | GitHub | Email |
 |:---:|:---:|:------:|:-----:|
 | FE | 강태훈 | https://github.com/taetaehoon  | rad572985@gmail.com   |
-| FE | 권용준 |  |  |
+| FE | 권용준 | https://github.com/donamgunner  | donamgunner@gmail.com  |
 | BE | 오명재 | https://github.com/Oh-Myeongjae  | omjcws@gmail.com   |
 | BE | 정원용 | https://github.com/projectmiluju  | project.miluju@gmail.com  |
 | BE | 노우열 | https://github.com/nohwooyeol  | dnfdufdl01@gmail.com  |
